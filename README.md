@@ -90,10 +90,10 @@ OpenAccounting is a comprehensive personal finance management strategy that emph
 - Consider using crowdfunding platforms or angel investing networks to find investment opportunities in startups.
 
 ## Tax Planning
-+ - Stay informed about tax laws and regulations to optimize your tax strategy.
-+ - Keep accurate records of your income, expenses, and deductions to ensure you are prepared for tax season.
-+ - Consult a tax professional if needed to help you navigate complex tax situations and minimize your tax liability.
-+ - Utilize tax-advantaged accounts, such as superannuation or individual retirement accounts (IRAs), to save for retirement and reduce your taxable income.
+- Stay informed about tax laws and regulations to optimize your tax strategy.
+- Keep accurate records of your income, expenses, and deductions to ensure you are prepared for tax season.
+- Consult a tax professional if needed to help you navigate complex tax situations and minimize your tax liability.
+- Utilize tax-advantaged accounts, such as superannuation or individual retirement accounts (IRAs), to save for retirement and reduce your taxable income.
 
 ## Conclusion
 By implementing OpenAccounting's strategies, you can develop a robust financial foundation, reduce debt, optimize spending, and make smarter investments. Stay disciplined, continuously educate yourself on personal finance, and adapt your approach as needed to achieve your financial goals.
