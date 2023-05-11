@@ -97,3 +97,59 @@ OpenAccounting is a comprehensive personal finance management strategy that emph
 
 ## Conclusion
 By implementing OpenAccounting's strategies, you can develop a robust financial foundation, reduce debt, optimize spending, and make smarter investments. Stay disciplined, continuously educate yourself on personal finance, and adapt your approach as needed to achieve your financial goals.
+
+## Contributing
+
+We welcome contributions to the OpenAccounting project. If you would like to contribute, please follow the guidelines below:
+
+1. **Fork the repository**: Click the "Fork" button at the top right corner of the repository page to create a copy of the project under your GitHub account.
+
+2. **Clone the forked repository**: Use the following command to clone your forked repository to your local machine:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/OpenAccounting.git
+```
+
+Replace `YOUR_USERNAME` with your GitHub username.
+
+3. **Create a new branch**: Navigate to the cloned repository on your local machine and create a new branch for your changes:
+
+```bash
+git checkout -b my-feature-branch
+```
+
+Replace `my-feature-branch` with a descriptive name for your branch.
+
+4. **Make your changes**: Modify existing files or create new ones to implement your feature or fix an issue. Be sure to follow the project's coding and documentation standards.
+
+5. **Commit your changes**: Stage and commit your changes using the following commands:
+
+```bash
+git add .
+git commit -m "Add a brief description of your changes"
+```
+
+Replace the commit message with a brief description of your changes.
+
+6. **Push your changes**: Push your changes to your forked repository on GitHub:
+
+```bash
+git push origin my-feature-branch
+```
+
+Replace `my-feature-branch` with the name of your branch.
+
+7. **Create a pull request**: Go to the main repository page on GitHub, click the "New pull request" button, and select your forked repository and branch. Fill out the pull request form with a detailed description of your changes and click "Create pull request".
+
+### Code of Conduct
+
+Please note that this project is released with a [Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
+
+### License
+
+This project is licensed under the [MIT License](LICENSE).
+
+### Questions
+
+If you have any questions or need assistance, please open an issue in the repository or contact the project maintainers.
+
